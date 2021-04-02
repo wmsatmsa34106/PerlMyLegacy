@@ -16,6 +16,7 @@
            - https://gihyo.jp/dev/serial/01/perl-hackers-hub/006502
            - https://gihyo.jp/dev/serial/01/perl-hackers-hub/006402
            - https://gihyo.jp/dev/serial/01/perl-hackers-hub/006301
+
               ```
                 ＞牧大輔
                 ＞牧大輔
@@ -23,6 +24,7 @@
                 ＞牧大輔
                 kita-w
               ```
+
            - https://gihyo.jp/dev/serial/01/perl-hackers-hub/006401
            - https://gihyo.jp/dev/serial/01/perl-hackers-hub/006402
                  - 少し？だと？
